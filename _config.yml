@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Machine Learning
 tagline: Machine Learning Fall 2023 
-description: Amirkabir University of Technology. (Tehran Polytechnic ) - Department of Mathematics and Computer Science
-author: Michael Hilton and Josh Sunshine
+description: Amirkabir University of Technology. (Tehran Polytechnic ) 
+author: Fatemeh Arab
 baseurl: "/ML4021-AUT" # the subpath of your site, e.g. /blog
 url: "http://fsarab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
