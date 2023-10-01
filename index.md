@@ -1,7 +1,7 @@
 ---
-layout: home
-title: Machine Learning
-nav_exclude: true
+layout: page
+title: Home
+nav_order: 1
 seo:
   type: Course
   name: Machine Learning
