@@ -22,7 +22,16 @@ seo:
 
 ## Welcome to Machine Learning Course Page -->
 
+<div>
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+  <div class="role">
+    {% for staffer in instructors %}
+    {{ staffer }}
+    {% endfor %}
+  </div>
+</div>
 
+{: .highlight }
 
 ### About the CS340 fall 2022 course
 
