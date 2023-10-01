@@ -71,10 +71,10 @@ Machine learning has revolutionized industries ranging from healthcare to financ
 
 
 ## Structure of the course
--Meets twice weekly
--Most classes will include both a lecture and a collaborative in-class exercise
--There will be weekly homework assignments for students to practice
--There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
+- Meets twice weekly
+- Most classes will include both a lecture and a collaborative in-class exercise
+- There will be weekly homework assignments for students to practice
+- There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
 
 Evaluation in the course will be approximately as follows:
  - Assingnments + Final Project : 40%
