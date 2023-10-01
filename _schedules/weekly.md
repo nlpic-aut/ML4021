@@ -32,3 +32,4 @@ schedule:
           start: 12:15 PM
           end: 1:30 PM
           location: Room 311
+---
