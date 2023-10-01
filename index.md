@@ -36,15 +36,18 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
+
 ### Teaching Assistants
 
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+<div class="role">
+  {% assign teaching_assistants = site.staffers | where:  'role', 'Teaching Assistant' %}
+  {% assign num_teaching_assistants = teaching_assistants | size %}
+  {% for staffer in teaching_assistants %}
+  {% if num_teaching_assistants != 0 %}
+     {{ staffer }}
+    {% endif %}
+  {% endfor %}
+</div>
 
 
 ## Course Overview
