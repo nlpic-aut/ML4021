@@ -61,7 +61,7 @@ Machine learning has revolutionized industries ranging from healthcare to financ
 
  - Practical aspects, such as various learning algorithms like decision trees, neural networks, and Bayesian networks.
  - General models, including genetic algorithms and reinforcement learning.
- - Theoretical concepts, encompassing related fields in statistics, Bayesian learning, and PAC learning theory.
+ - Theoretical concepts, encompassing related fields in statistics, Bayesian learning.
 
 ### Prerequisites
 
@@ -81,7 +81,7 @@ Evaluation in the course will be approximately as follows:
  - Final Exam : 40%
  - Presentation of a paper + implementation : 20%
 
-## Assignments and Projects
+## Assignments 
 
 * Each assignment includes both theoretical and implementation aspects.
 * Implementation of learning algorithms: At the end of each chapter, using Python.
@@ -89,7 +89,7 @@ Evaluation in the course will be approximately as follows:
 * The code should be submitted via the LMS.
 * There will be **no deadline** extensions.
 
-## Presentation of a Paper and Implementation
+## Final Project
 
 The project consists of four parts:
 
