@@ -20,16 +20,19 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Saturday
+  - name: Sunday
   - name: Monday
     events:
         - name: Lecture
           start: 10:45 AM
           end: 12:15 PM
           location: Room 311
-  - name: Monday
-    events:
         - name: Extra Class
           start: 12:15 PM
           end: 1:30 PM
-          location: Room 311
+          location: Room 31
+  - name: Tuesday
+  - name: Wednesday
+  - name: Thursday
+  - name: Friday
 ---
