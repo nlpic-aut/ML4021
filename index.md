@@ -22,7 +22,7 @@ seo:
 
 ## Welcome to Machine Learning Course Page -->
 
-## Location and Time
+### Location and Time
 
 - **Location :** Department of Mathematics and Computer Science - R.311
 - **Time :** Saturday and Monday 10:45AM - 12:15AM
@@ -47,14 +47,14 @@ seo:
 {% endif %}
 
 
-# Course Overview
+## Course Overview
 
 Welcome to the Course of Machine Learning, one of the most exciting and rapidly evolving fields in computer science and data analysis. This course is offered at Amirkabir University of Technology in the Department of Mathematics and Computer Science, is designed to provide you with a comprehensive understanding of the principles, algorithms, and applications of machine learning.
 
 Machine learning has revolutionized industries ranging from healthcare to finance to entertainment. In this course, you will embark on a journey to explore the theoretical foundations and practical applications of machine learning. This course is structured to accommodate students with varying levels of prior knowledge, from those new to programming to those with more advanced technical backgrounds.
 
 
-### Learning Goals
+## Learning Goals
 The goal of the course is to provide an overview of machine learning, which includes the following topics:
 
  - Practical aspects, such as various learning algorithms like decision trees, neural networks, and Bayesian networks.
@@ -75,8 +75,8 @@ There will be weekly homework assignments for students to practice
 There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
 
 Evaluation in the course will be approximately as follows:
- - Assingnments + Final Project: 40%
- - Final Exam: 40%
+ - Assingnments + Final Project : 40%
+ - Final Exam : 40%
  - Presentation of a paper + implementation : 20%
 
 ## Assignments and Projects
@@ -96,5 +96,5 @@ The project consists of four parts:
 3. Designing the relevant algorithms and implementing them.
 4. Uploading the implementation results along with a written report on the website.
 
-*The deadline for uploading is one day before the exam.*
+**The deadline for uploading is one day before the exam.**
 Presenting the results, explaining the algorithm, and the implementation method orally.
