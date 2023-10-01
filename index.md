@@ -22,17 +22,22 @@ seo:
 
 ## Welcome to Machine Learning Course Page -->
 
-<div>
+## Instructors
+
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-  <div class="role">
-    {% for staffer in instructors %}
-    {{ staffer }}
-    {% endfor %}
-  </div>
-</div>
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
 
-{: .highlight }
+{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
+## Teaching Assistants
 
+{% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
 ### About the CS340 fall 2022 course
 
 **Instructor:** Dr. Ali Mohades (mohades@aut.ac.ir)
