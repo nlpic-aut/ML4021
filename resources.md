@@ -3,21 +3,15 @@ layout: page
 title: Resources
 permalink: /resources/
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Resources
 
-## git/GitHub
+## Books
 
-[github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
-
-[git tower cheatsheet](https://www.git-tower.com/blog/git-cheat-sheet/)
-
-[How to cite files](https://www.software.ac.uk/how-cite-software)
-
-[Learning Git](https://learngitbranching.js.org/)
-
-[Learning Vim adventure game](https://vim-adventures.com/)
-
-[python cheat sheet](http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf)
+- Machine learning by Tom Mitchell, McGraw Hill, 1997.
+- Pattern Recognition and Machine Learning, Christopher M. Bishop, 2006.
+- Introduction to Machine Learning, Second Edition. Ethem Alpaydın,The MIT Press, 2010.
+- Machine Learning: A Probabilistic Perspective. Kevin P. Murphy 2012
+- Speech and Language Processing. Daniel Jurafsky and James H. Martin 2023
