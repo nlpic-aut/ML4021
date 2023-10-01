@@ -22,9 +22,10 @@ seo:
 
 ## Welcome to Machine Learning Course Page -->
 
-##See previous class instance here: [2021](https://cmu-crafting-software.github.io/2020/)
 
-*About the CS340 fall 2022 course*
+
+### About the CS340 fall 2022 course
+
 Instructor: Dr. Ali Mohades (mohades@aut.ac.ir)
 Location: Department of Mathematics and Computer Science
 Teaching Assistans: Fatemeh Arab (fatemeh.arab@aut.ac.ir)
