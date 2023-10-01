@@ -19,29 +19,16 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
+  - name: Saturday
   - name: Monday
-  - name: Tuesday
     events:
         - name: Lecture
-          start: 3:05 PM
-          end: 4:25 PM
-          location: WEH 6423
-  - name: Wednesday
+          start: 10:45 AM
+          end: 12:15 PM
+          location: Room 311
+  - name: Monday
     events:
-        - name: Nimo's OH
-          start: 4:00 PM
-          end: 5:00 PM
-          location: TCS 3rd Floor Atrium 
-  - name: Thursday
-    events:
-        - name: Lecture
-          start: 3:05 PM
-          end: 4:25 PM
-          location: WEH 6423
-  - name: Friday
-    events:
-      - name: Recitation
-        start: 2:30 PM
-        end: 3:20 PM
-        location: WEH 5310
----
+        - name: Extra Class
+          start: 12:15 PM
+          end: 1:30 PM
+          location: Room 311
