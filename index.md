@@ -29,7 +29,7 @@ seo:
 - **Final Exam:** Saturday, 1402/10/23, 9:00AM
                  
 
-## Instructors
+### Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -39,7 +39,7 @@ seo:
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+### Teaching Assistants
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
@@ -55,7 +55,6 @@ Machine learning has revolutionized industries ranging from healthcare to financ
 
 
 ## Learning Goals
-The goal of the course is to provide an overview of machine learning, which includes the following topics:
 
  - Practical aspects, such as various learning algorithms like decision trees, neural networks, and Bayesian networks.
  - General models, including genetic algorithms and reinforcement learning.
@@ -69,10 +68,10 @@ The goal of the course is to provide an overview of machine learning, which incl
 
 
 ## Structure of the course
-Meets twice weekly
-Most classes will include both a lecture and a collaborative in-class exercise
-There will be weekly homework assignments for students to practice
-There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
+-Meets twice weekly
+-Most classes will include both a lecture and a collaborative in-class exercise
+-There will be weekly homework assignments for students to practice
+-There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
 
 Evaluation in the course will be approximately as follows:
  - Assingnments + Final Project : 40%
@@ -97,4 +96,5 @@ The project consists of four parts:
 4. Uploading the implementation results along with a written report on the website.
 
 **The deadline for uploading is one day before the exam.**
+
 Presenting the results, explaining the algorithm, and the implementation method orally.
