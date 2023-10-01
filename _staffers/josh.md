@@ -1,7 +1,8 @@
 ---
 name: Dr. Ali Mohades
 role: Instructor
-email: moahes@aut.ac.ir
+email: mohades@aut.ac.ir
+photo : inst1
 ---
 
 
