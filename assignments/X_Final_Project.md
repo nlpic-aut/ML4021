@@ -24,11 +24,11 @@ These are the important dates that you should note
 ## Related journals
 
 - Journal of Machine Learning Research www.jmlr.org
-- Machine Learning Machine Learning | Home (springer.com)
-- Neural Computation Neural Computation | MIT Press Neural Networks
+- Machine Learning Machine Learning (springer.com)
+- Neural Computation Neural Computation, MIT Press Neural Networks
 - IEEE Transactions on Neural Networks
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
-- Annals of Statistics Institute of Mathematical Statistics | Annals of Statistics (imstat.org)
+- Annals of Statistics Institute of Mathematical Statistics  (imstat.org)
 - Journal of the American Statistical Association
 
 ## Related conferences
