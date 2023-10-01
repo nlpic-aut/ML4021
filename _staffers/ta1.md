@@ -1,7 +1,7 @@
 ---
 name: Fatemeh Arab
 role: Teaching Assistant
-email: fatemeh.ara@aut.ac.ir
+email: fatemeh.arab@aut.ac.ir
 photo: ta1.png
 ---
 
