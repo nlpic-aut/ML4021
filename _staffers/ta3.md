@@ -1,7 +1,8 @@
 ---
 name: Mohammadali Sefidi Esfahani
 role: Teaching Assistant
-email: woden@cs.cmu.edu
+email: mohammadali.esfahani@aut.ac.ir
+photo: ta3.jpg
 ---
 
 
