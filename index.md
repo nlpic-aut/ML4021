@@ -77,9 +77,9 @@ Machine learning has revolutionized industries ranging from healthcare to financ
 - There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
 
 Evaluation in the course will be approximately as follows:
- - Assingnments + Final Project : 40%
+ - Assingnments : 40%
  - Final Exam : 40%
- - Presentation of a paper + implementation : 20%
+ - Final project : 20%
 
 ## Assignments 
 
