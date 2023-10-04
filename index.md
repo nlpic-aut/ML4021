@@ -86,7 +86,7 @@ Evaluation in the course will be approximately as follows:
 * Each assignment includes both theoretical and implementation aspects.
 * Implementation of learning algorithms: At the end of each chapter, using Python.
 * For each assignment, you are required to submit a written report, including: answers to questions, a summary of the tasks performed, the algorithm implementation approach, and the obtained results.
-* The code should be submitted via the [Courses]([https://drive.google.com/file/d/1I0YnGZrfoRBAe-7urXM1Trm2GSefU6Xx/view?usp=sharing](https://courses.aut.ac.ir/)){:target="_blank"}.
+* The code should be submitted via the Courses.
 * There will be **no deadline extensions.** 
 
 ## Final Project
@@ -96,7 +96,7 @@ The project consists of four parts:
 1. Selecting a research paper related to the thesis topic and obtaining approval (before the month of Aban).
 2. Presentation of the chosen paper (starting from the middle of Aban).
 3. Designing the relevant algorithms and implementing them.
-4. Uploading the implementation results along with a written report on the [Courses]([https://drive.google.com/file/d/1I0YnGZrfoRBAe-7urXM1Trm2GSefU6Xx/view?usp=sharing](https://courses.aut.ac.ir/)){:target="_blank"}.
+4. Uploading the implementation results along with a written report on the Courses.
 
 **The deadline for uploading is one day before the exam.**
 
