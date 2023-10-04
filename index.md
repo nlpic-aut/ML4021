@@ -87,7 +87,7 @@ Evaluation in the course will be approximately as follows:
 * Implementation of learning algorithms: At the end of each chapter, using Python.
 * For each assignment, you are required to submit a written report, including: answers to questions, a summary of the tasks performed, the algorithm implementation approach, and the obtained results.
 * The code should be submitted via the [Courses]([https://drive.google.com/file/d/1I0YnGZrfoRBAe-7urXM1Trm2GSefU6Xx/view?usp=sharing](https://courses.aut.ac.ir/)){:target="_blank"}.
-* There will be **no deadline** extensions.
+* There will be **no deadline extensions.** 
 
 ## Final Project
 
