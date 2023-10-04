@@ -8,7 +8,7 @@ nav_order: 2
 
 * Introduction
 * Linear regression 
-* Linear models classification for 
+* Linear models for classification 
 * Vector Support Machine 
 * Decision Tree Learning 
 * Artificial Neural Networks 
