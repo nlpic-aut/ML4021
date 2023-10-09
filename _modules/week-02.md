@@ -7,4 +7,5 @@ Mehr 8 (Sat)
 
 
 Mehr 10 (Mon)
+: **Lecture 3**{: .label .label-lecture } Concept Learning [slides](https://drive.google.com/file/d/17-ne_txbSX_xBrTUqSBaPStNqNcAbAqN/view?usp=sharing){:target="_blank"}
 
