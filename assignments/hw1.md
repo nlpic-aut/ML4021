@@ -7,14 +7,11 @@ parent: Assignments
 
 # Homework 1 
 
-
-## Learning goals
-
-
-## Tasks
-
-
-## Deadlines and Deliverables
+## Part 1
+### Learning goals
+The objective of this assignment is to implement linear regression for univariate data using the direct method.
+### Deadlines 
+24th Mehr
 
 
 
